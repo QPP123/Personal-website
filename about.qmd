@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+With a budding career bridging the gap between data analysis and information technology, I am an emerging Data Analyst advancing my education at the University of Toronto. I will complete a Bachelor of Information at the University of Toronto, expected in 2024.
 
-```{r}
-1 + 1
-```
+My professional experience is rooted in data-driven analysis and practical application. As a Medical Data Analyst at Nanjing Drum Tower Hospital, I honed my skills in data summarization, system optimization, and UI design enhancement, contributing to streamlined healthcare processes. Earlier, at Nanjing University Biology Lab, I supported research through meticulous data collection and analysis, blending scientific inquiry with technical proficiency.
+
+My projects demonstrate a keen ability to identify user needs, analyze complex data sets, and develop practical solutions. From creating a cost-effective offer model for automotive sales to developing a comprehensive database system for a growing bookstore, my work reflects a commitment to innovation and efficiency.
+
+Technical skills in programming languages like Python, Java, R, and SQL, alongside proficiency in tools like MATLAB and Microsoft Access, complement my analytical expertise. My background is further enriched by solid research abilities, a strong mathematical foundation, and a CASI Level 2 snowboard instructor certification, showcasing my versatility and adaptability.
+
+Fluent in English and Mandarin, I am a dynamic communicator and a collaborative team player, ready to contribute to and grow within the IT and data analytics sectors.
